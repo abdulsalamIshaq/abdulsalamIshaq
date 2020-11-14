@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Abdulsalam Ishaq 👋
 
 <!--
 **kayode-suc/kayode-suc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 ---
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=kayode-suc&count_private=true&include_all_commits=true" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=kayode-suc&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayode-suc&layout=compact" />
 </div>
