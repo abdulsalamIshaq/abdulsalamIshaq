@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="middle">
-  <img width="600" src="https://github-profile-trophy.vercel.app/?username=kayode-suc&rank=SS,S,AAA,AA,A,B,C&row=1&column=5"/>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sorrycc/count.svg" />
 </p>
 
 ---
